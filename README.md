@@ -1,22 +1,17 @@
-
 <html>
  
  <head>
- <style>
-  body
-  {
-  background-color:pink;
-}
- </style>
+ 
  </head>
  <body>
   <h1>ONLINE BOOK STORE</h1>
   <hr>
-  <img src="" height="450" width="551"/>
+  <img src="book3.jpeg"
+" width="551" height="551"/>
             
             
 
-**ABSTRACT:**
+  <h2>ABSTRACT:</h2>
 
 The main objective of the project is to create an online book store that allows users to purchase a book online based on  book title and domain of the book. The selected books are
 displayed in a cart and the user can order their books online through credit card payment.users can also remove the books after they are added to the cart. In today’s fast-changing
@@ -31,12 +26,12 @@ when compared to the common user. He can login the website using his username an
 using html,css,javascript,servlet,jsp,Bootstrap. This document will discuss each of the underlying technologies to create and implement an Online book store website. 
 We have gained a lot of practical knowledge from this project, which we think, shall make us stand in a good state in the future.
 
-**INTRODUCTION**
+  <h2>INTRODUCTION:</h2>
  The main objective of the project is to create an online book store that allows users to purchase a book based on title and domain of the book. The selected books are displayed 
  in a cart and the user can order their books online through credit card payment. The Administrator will have additional functionalities when compared to the common user.The goal
  of this project is to design an online bookstore named Priya’s Online book store that mainly sells computer and technical books. 
  
- **Project Overview:**
+  <h2>Project Overview:</h2>
  
  The online book store project needs to create the shopping cart system to organize the products record and the other information about the customers. How customers can buy 
  products from website can be recognized from their username and password. There are many online book stores like Powell’s, Amazon which were designed using Html. I want to 
@@ -45,12 +40,12 @@ We have gained a lot of practical knowledge from this project, which we think, s
  to a website. The books are divided into many categories based on different stream.Additionally,unlike a store,online book store has friendly customer service representatives
  available 24 hours a day,7 days a week to assist you with locating,purchasing and shipping your merchandise.
  
- **SCOPE:**
+  <h2>SCOPE:</h2>
  
  Online shopping is rising day by day in India. Because India is the country where computer user's are increasing day by day so as the online shopping trends are also increasing. 
  This project covers the online selling of books. The project shows the product category and then product details. From the product details, the product can be added to cart and
  can be bought.      
  </body>
  </html>
-![book](https://user-images.githubusercontent.com/91719552/147536570-f91632d5-2a5a-458d-a049-61d2fd688cb0.jpeg)
+
  
