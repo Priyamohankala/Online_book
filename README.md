@@ -1,5 +1,20 @@
-![book1](https://user-images.githubusercontent.com/91719552/147536556-657a1be5-093e-42f9-98ea-67a56c266149.jpeg)
 
+<html>
+ 
+ <head>
+ <style>
+  body
+  {
+  background-color:pink;
+}
+ </style>
+ </head>
+ <body>
+  <h1>ONLINE BOOK STORE</h1>
+  <hr>
+  <img src="" height="450" width="551"/>
+            
+            
 
 **ABSTRACT:**
 
@@ -35,5 +50,7 @@ We have gained a lot of practical knowledge from this project, which we think, s
  Online shopping is rising day by day in India. Because India is the country where computer user's are increasing day by day so as the online shopping trends are also increasing. 
  This project covers the online selling of books. The project shows the product category and then product details. From the product details, the product can be added to cart and
  can be bought.      
-
+ </body>
+ </html>
 ![book](https://user-images.githubusercontent.com/91719552/147536570-f91632d5-2a5a-458d-a049-61d2fd688cb0.jpeg)
+ 
