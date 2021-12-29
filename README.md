@@ -7,7 +7,7 @@
   <h1>ONLINE BOOK STORE</h1>
   <hr>
   <img src="book3.jpeg"
-" width="551" height="551"/>
+" width="551" height="400"/>
             
             
 
@@ -41,10 +41,13 @@ We have gained a lot of practical knowledge from this project, which we think, s
  available 24 hours a day,7 days a week to assist you with locating,purchasing and shipping your merchandise.
  
   <h2>SCOPE:</h2>
- 
+ <p>
  Online shopping is rising day by day in India. Because India is the country where computer user's are increasing day by day so as the online shopping trends are also increasing. 
  This project covers the online selling of books. The project shows the product category and then product details. From the product details, the product can be added to cart and
- can be bought.      
+                          can be bought.      </p>
+                           <img src="bookstore.png"
+" width="551" height="451"/>
+            
  </body>
  </html>
 
